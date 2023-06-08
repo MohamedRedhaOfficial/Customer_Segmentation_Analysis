@@ -34,4 +34,5 @@ Income vs spending plot shows the clusters pattern
     group 3: low spending & low income
     
 # Profiling Summary
-![clustergroups](https://github.com/MohamedRedhaOfficial/Customer_Segmentation_Analysis/assets/126083924/44b98993-1da9-4779-acb7-91e9da1aed88)
+![better](https://github.com/MohamedRedhaOfficial/Customer_Segmentation_Analysis/assets/126083924/9936780c-a994-4222-832d-7341eea7ecff)
+
